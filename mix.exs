@@ -23,7 +23,7 @@ defmodule TestApp.MixProject do
   defp deps do
     [
       {:jason, "~> 1.2"},
-      {:boundary, "0.9.4", runtime: false}
+      {:boundary, "0.10.1", runtime: false}
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]
   end
